@@ -1,0 +1,2 @@
+Error 137 in Docker denotes that the container was 'KILL'ed by 'oom-killer' (Out of Memory). 
+This happens when there isn't enough memory in the container for running the process
